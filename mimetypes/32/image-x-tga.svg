@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <defs>        
+        <linearGradient id="linearGradient11" x2="0" y1="392.36" y2="365.36" gradientTransform="matrix(0,-1,-1,0,395.36,64.998)" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" stop-opacity="0" offset="0"/><stop stop-color="#fff" stop-opacity=".15" offset="1"/></linearGradient>
+        <linearGradient id="linearGradient8" x1="18.727" x2="25.758" y1="16.98" y2="23.848" gradientTransform="translate(6.0123,-5.0157)" gradientUnits="userSpaceOnUse"><stop stop-color="#060606" offset="0"/><stop stop-opacity="0" offset="1"/></linearGradient>
+    
+    
+    
+    
+
+
+
+        
+        
+        
+    
+        
+        
+        
+    
+    </defs><path d="m30.002 25.357v-13.363l-7.0071-6.9884h-19.4c-0.884 0-1.5957 0.72853-1.5957 1.6335v18.718c0 0.90494 0.71167 1.6335 1.5957 1.6335h24.811c0.884 0 1.5957-0.72853 1.5957-1.6335z" fill="#d4382a" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/><path transform="scale(.92103 1.0857)" d="m22.591 21.693v-2.8374h-0.9645v-0.50011h2.521v0.50011h-0.9645v2.8374zm3.3783 0.06124q-0.44908 0-0.8063-0.19902-0.35722-0.19902-0.56135-0.58176-0.20413-0.38784-0.20413-0.93898 0-0.40825 0.11737-0.72975 0.12248-0.3215 0.33681-0.54604 0.21944-0.22964 0.50521-0.34702 0.28578-0.11737 0.61748-0.11737 0.35722 0 0.60728 0.12758 0.25006 0.12758 0.40315 0.29598l-0.3164 0.36232q-0.12248-0.12248-0.28067-0.19392-0.1582-0.07655-0.39294-0.07655-0.29598 0-0.52052 0.14799-0.22454 0.14289-0.34702 0.41336t-0.12248 0.6481q0 0.37763 0.11737 0.6532 0.11737 0.27557 0.34191 0.42356 0.22964 0.14289 0.56135 0.14289 0.14289 0 0.27047-0.03572 0.12758-0.04082 0.20923-0.11227v-0.71955h-0.63279v-0.4848h1.1635v1.4697q-0.1684 0.1684-0.44908 0.28578-0.27557 0.11227-0.61748 0.11227zm1.3421-0.06124 1.087-3.3375h0.69403l1.087 3.3375h-0.62259l-0.51032-1.7759q-0.08165-0.26536-0.1582-0.54604-0.07144-0.28067-0.14289-0.55624h-0.02041q-0.06634 0.28067-0.14289 0.56135-0.07144 0.27557-0.1531 0.54094l-0.51542 1.7759zm0.643-0.90326v-0.46439h1.5718v0.46439z" fill="#efeeee" opacity=".80973" stroke-width="1.6335" aria-label="TGA"/><path d="m11.683 11.154a1.3217 1.3217 0 0 0-1.3217 1.3218 1.3217 1.3217 0 0 0 1.3217 1.3217 1.3217 1.3217 0 0 0 1.3217-1.3217 1.3217 1.3217 0 0 0-1.3217-1.3218m0 0.88116a0.44059 0.44059 0 0 1 0.44059 0.44059 0.44059 0.44059 0 0 1-0.44059 0.44059 0.44059 0.44059 0 0 1-0.44059-0.44059 0.44059 0.44059 0 0 1 0.44059-0.44059m8.3711 0.88116-4.9345 4.9169-2.291-2.2735-5.2869 5.2869h1.2389l2.7484-2.7158 1.2407-1.2372 1.3781 1.2495 0.97104 0.94109 4.9345-4.7565 3.1669 2.9943h1.2389z" color="#000000" color-rendering="auto" fill="#efeeee" image-rendering="auto" opacity=".80973" shape-rendering="auto" stop-color="#000000" stroke-width="1.7623" style="-inkscape-stroke:none;font-variation-settings:normal"/><g fill-rule="evenodd"><path d="m23.381 11.781 0.23438 0.20703 6.3789 6.3535 2e-3 -6.3457h-5.9863c-0.23341 0-0.44714-0.08014-0.61719-0.21289-0.0074-0.0016-0.01172-2e-3 -0.01172-2e-3zm6.6152 0.21484v-0.0078h-0.0078z" fill="url(#linearGradient8)" opacity=".1" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/><path d="m29.881 25.995c-0.2301 0.55992-0.76016 0.96086-1.4082 0.99609h-24.945c-0.64804-0.03523-1.1742-0.43618-1.4043-0.99609z" opacity=".25" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/><path d="m2.1229 6.0033c0.2301-0.55992 0.76016-0.96086 1.4082-0.99609h19.465l1.3e-5 0.99609z" fill="#fff" opacity=".4" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/></g><path d="m30.001 25.357v-13.363l-7.0071-6.9884h-19.4c-0.884 0-1.5957 0.72853-1.5957 1.6335v18.718c0 0.90494 0.71167 1.6335 1.5957 1.6335h24.811c0.884 0 1.5957-0.72853 1.5957-1.6335z" fill="url(#linearGradient11)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m22.997 5.0033v5.9863c0 0.55559 0.44728 1.0029 1.0029 1.0029h6.0044z" fill="#fff" opacity=".5" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    
+</svg>

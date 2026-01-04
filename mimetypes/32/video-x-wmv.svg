@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="a" x2="0" y1="394.54" y2="325.98" gradientTransform="matrix(.48276 0 0 .40835 -33.93 -131.12)" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" stop-opacity="0" offset="0"/><stop stop-color="#fff" stop-opacity=".2" offset="1"/></linearGradient>
+    </defs>
+    <path d="m3.4514 8.0044v0.00195c-0.90497 0-1.6328 0.7117-1.6328 1.5957v18.802c0 0.884 0.72784 1.5957 1.6328 1.5957h25.031c0.90497 0 1.6328-0.7117 1.6328-1.5957v-18.802c0-0.884-0.72784-1.5957-1.6328-1.5957v-0.00195z" fill="#35bedc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m1.9359 29c0.2301 0.55992 0.77578 0.96086 1.4238 0.99609h25.214c0.64804-0.03523 1.1937-0.43618 1.4238-0.99609z" fill-rule="evenodd" opacity=".25" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m1.9392 8.9988c0.22229-0.55992 0.82255-0.99609 1.4863-0.99609h25.149c0.64804 0.03523 1.1937 0.43618 1.4238 0.99609z" fill="#fff" fill-rule="evenodd" opacity=".5" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m3.4514 8.0044v0.00195c-0.90497 0-1.6328 0.7117-1.6328 1.5957v18.802c0 0.884 0.72784 1.5957 1.6328 1.5957h25.031c0.90497 0 1.6328-0.7117 1.6328-1.5957v-18.802c0-0.884-0.72784-1.5957-1.6328-1.5957v-0.00195z" fill="url(#a)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <g fill="#fff" shape-rendering="auto">
+        <path d="m16.001 12.998a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6m0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m-2 2v6l5-3z" color="#000000" color-rendering="auto" image-rendering="auto" opacity=".75"/>
+        <path d="m3 10v2h2v-2zm24 0v2h2v-2zm-24 4v2h2v-2zm24 0v2h2v-2zm-24 4v2h2v-2zm24 0v2h2v-2zm-24 4v2h2v-2zm24 0v2h2v-2zm-24 4v2h2v-2zm24 0v2h2v-2z" color="#000000" color-rendering="auto" image-rendering="auto" opacity=".75"/>
+    </g>
+</svg>

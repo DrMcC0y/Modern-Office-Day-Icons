@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <defs>        
+        <linearGradient id="linearGradient11" x1="49.684" x2="49.684" y1="393.07" y2="365.65" gradientTransform="matrix(0,-1,-1,0,395.36,64.998)" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" stop-opacity="0" offset="0"/><stop stop-color="#fff" stop-opacity=".15" offset="1"/></linearGradient>
+        <linearGradient id="linearGradient8" x1="18.727" x2="25.758" y1="16.98" y2="23.848" gradientTransform="translate(6.0123 -5.0157)" gradientUnits="userSpaceOnUse"><stop stop-color="#060606" offset="0"/><stop stop-opacity="0" offset="1"/></linearGradient>
+    
+    
+    
+    
+
+
+
+        
+        
+        
+    
+        
+        
+        
+    
+    
+    
+
+
+
+    
+    
+
+
+
+        
+        
+        
+    
+    </defs><path d="m30.002 25.357v-13.363l-7.0071-6.9884h-19.4c-0.884 0-1.5957 0.72853-1.5957 1.6335v18.718c0 0.90494 0.71167 1.6335 1.5957 1.6335h24.811c0.884 0 1.5957-0.72853 1.5957-1.6335z" fill="#db6c33" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke fill markers"/><path d="m22.189 23.381q-0.39694 0-0.71268-0.20436-0.31574-0.20436-0.49617-0.59737-0.18042-0.39825-0.18042-0.96418 0-0.41921 0.10374-0.74934 0.10826-0.33012 0.2977-0.56069 0.19396-0.2358 0.44655-0.35633 0.2526-0.12052 0.54579-0.12052 0.31574 0 0.53677 0.131 0.22102 0.131 0.35634 0.30393l-0.27966 0.37205q-0.10826-0.12576-0.24809-0.19912-0.13983-0.0786-0.34732-0.0786-0.26162 0-0.46008 0.15196-0.19847 0.14672-0.30672 0.42445-0.10826 0.27772-0.10826 0.66549 0 0.38777 0.10374 0.67073 0.10374 0.28297 0.30221 0.43493 0.20298 0.14672 0.49617 0.14672 0.1263 0 0.23906-0.03668 0.11277-0.04192 0.18494-0.11528v-0.73885h-0.55932v-0.49781h1.0284v1.5091q-0.14885 0.17292-0.39694 0.29345-0.24357 0.11528-0.54579 0.11528zm1.5968-0.06288v-3.427h0.52323v3.427zm1.272 0v-3.427h1.7817v0.51353h-1.2585v0.96942h1.0735v0.51353h-1.0735v1.4305z" fill="#efeeee" opacity=".80973" stroke-width="1.5562" aria-label="GIF"/><path d="m11.683 11.154a1.3217 1.3217 0 0 0-1.3217 1.3218 1.3217 1.3217 0 0 0 1.3217 1.3217 1.3217 1.3217 0 0 0 1.3217-1.3217 1.3217 1.3217 0 0 0-1.3217-1.3218m0 0.88116a0.44059 0.44059 0 0 1 0.44059 0.44059 0.44059 0.44059 0 0 1-0.44059 0.44059 0.44059 0.44059 0 0 1-0.44059-0.44059 0.44059 0.44059 0 0 1 0.44059-0.44059m8.3711 0.88116-4.9345 4.9169-2.291-2.2735-5.2869 5.2869h1.2389l2.7484-2.7158 1.2407-1.2372 1.3781 1.2495 0.97104 0.94109 4.9345-4.7565 3.1669 2.9943h1.2389z" color="#000000" color-rendering="auto" fill="#efeeee" image-rendering="auto" opacity=".80973" shape-rendering="auto" stop-color="#000000" stroke-width="1.7623" style="-inkscape-stroke:none;font-variation-settings:normal"/><g fill-rule="evenodd"><path d="m23.381 11.781 0.23438 0.20703 6.3789 6.3535 2e-3 -6.3457h-5.9863c-0.23341 0-0.44714-0.08014-0.61719-0.21289-0.0074-0.0016-0.01172-2e-3 -0.01172-2e-3zm6.6152 0.21484v-0.0078h-0.0078z" fill="url(#linearGradient8)" opacity=".1" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/><path d="m29.881 25.995c-0.2301 0.55992-0.76016 0.96086-1.4082 0.99609h-24.945c-0.64804-0.03523-1.1742-0.43618-1.4043-0.99609z" opacity=".25" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/><path d="m2.1229 6.0033c0.2301-0.55992 0.76016-0.96086 1.4082-0.99609h19.465l1.3e-5 0.99609z" fill="#fff" opacity=".4" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    </g><path d="m30.001 25.357v-13.363l-7.0071-6.9884h-19.4c-0.884 0-1.5957 0.72853-1.5957 1.6335v18.718c0 0.90494 0.71167 1.6335 1.5957 1.6335h24.811c0.884 0 1.5957-0.72853 1.5957-1.6335z" fill="url(#linearGradient11)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m22.997 5.0033v5.9863c0 0.55559 0.44728 1.0029 1.0029 1.0029h6.0044z" fill="#fff" opacity=".5" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs>
+    
+    
+
+
+<linearGradient id="linearGradient10" x1="372.98" x2="379.72" y1="524.49" y2="531" gradientTransform="translate(-352.58 -515.8)" gradientUnits="userSpaceOnUse"><stop stop-color="#383e51" offset="0"/><stop stop-color="#655c6f" stop-opacity="0" offset="1"/></linearGradient><linearGradient id="a-8" x2="0" y1="61" y2="3" gradientTransform="matrix(.5 0 0 -.48276 28.001 31.421)" gradientUnits="userSpaceOnUse"><stop stop-color="#22a7f0" offset="0"/><stop stop-color="#19b5fe" offset="1"/></linearGradient><linearGradient id="b-6" x2="0" y1="518.04" y2="524.8" gradientTransform="translate(-356.57 -515.83)" gradientUnits="userSpaceOnUse"><stop stop-color="#c8e3fe" offset="0"/><stop stop-color="#fff" offset="1"/></linearGradient></defs>
+    <path d="m6.6411 1.9968h13.363l6.9884 7.0071v19.4c0 0.884-0.72853 1.5957-1.6335 1.5957h-18.718c-0.90494 0-1.6335-0.71167-1.6335-1.5957v-24.811c0-0.884 0.72853-1.5957 1.6335-1.5957z" fill="url(#a-8)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    
+
+    <path d="m26.995 9.0014h-5.9863c-0.55559 0-1.0029-0.44728-1.0029-1.0029v-6.0044z" fill="url(#b-6)" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/><path d="m16.114 11.857c-3.314 0-6 2.686-6 6s2.686 6 6 6 6-2.686 6-6-2.686-6-6-6m0 1c2.761 0 5 2.239 5 5s-2.239 5-5 5-5-2.239-5-5 2.239-5 5-5m-0.5 1v1h1v-1zm0 2v6h1v-6z" fill="#fff"/><g fill-rule="evenodd"><path d="m20.379 8.7871 0.23438 0.20703 6.3789 6.3535 2e-3 -6.3457h-5.9863c-0.23341 0-0.44714-0.080137-0.61719-0.21289-0.0074-0.00165-0.01172-0.00195-0.01172-0.00195zm6.6152 0.21484v-0.00781h-0.0078z" fill="url(#linearGradient10)" opacity=".2" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/><path d="m5.1235 29.004c0.2301 0.55992 0.77578 0.96086 1.4238 0.99609h18.902c0.64804-0.03523 1.1937-0.43618 1.4238-0.99609z" opacity=".25" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/><path d="m5.1235 2.9925c0.2301-0.55992 0.77578-0.96086 1.4238-0.99609h13.457l1.3e-5 0.99609z" fill="#fff" opacity=".4" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/></g></svg>
